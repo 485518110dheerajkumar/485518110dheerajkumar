@@ -338,4 +338,7 @@ footer p{
         margin: 10px 10px;
         
     }
+    .left p{
+        content-visibility: hidden;
+    }
 }
