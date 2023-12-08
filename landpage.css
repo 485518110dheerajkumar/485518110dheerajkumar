@@ -341,8 +341,9 @@ footer p{
     .left p{
         content-visibility: hidden;
     }
-    .safetyimage img{
-        margin: 10px 40px;
-        height: 50vh;
-    }
+     .nav2 li{
+    padding: 10px 20px;
+    font-size: 25px;
+    
+}
 }
