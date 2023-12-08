@@ -115,6 +115,9 @@ li input{
     .log{
         padding: 10px 5vh;  
     }
+    .left p{
+        content-visibility: hidden;
+    }
 }
 /**********************************   navigation bar number 2  **********************************/
 .nav2{
